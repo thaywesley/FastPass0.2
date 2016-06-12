@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FastPass0.2</string>
+    <string name="Adicionar">Adicionar ao Carrinho</string>
+    <string name="Checkout">Checkout</string>
+    <string name="PgCard">Pagar com cartão</string>
+    <string name="BtFinalCo">Finalizar Compra</string>
+    <string name="identifique">Qual o seu perfil?</string>
+    <string name="title_activity_logout">LogoutActivity</string>
+    <string name="facebook_app_id">295001430838298</string>
+
+</resources>
